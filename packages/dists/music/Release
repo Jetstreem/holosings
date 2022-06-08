@@ -1,1 +1,10 @@
-Codename: rep
+Codename: hololive-linux
+Version: 1.0
+Architectures: all
+Description: hololive content repository for distros that uses *.deb. Termux partially supported.
+Suite: music
+Date: Wed, 8 Jun 2022, 11:11:10 PHT
+MD5Sum:
+SHA1:
+SHA256:
+SHA512:
